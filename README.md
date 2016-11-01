@@ -9,4 +9,6 @@ well, i have tested some variants of realization. Summing-up:
             return text;
 I am sure the way i did it is not the fastest one.
 - Reversing it manually by replacing elements in char array is fast enough to beat SB & XOR at medium & long distances, but it is not enough to make it faster than Array.Reverse().
+
+<img src = "https://pp.vk.me/c638624/v638624859/9aa9/V157mEWTpyE.jpg"/>
             
