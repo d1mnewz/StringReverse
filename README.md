@@ -12,3 +12,4 @@ I am sure the way i did it is not the fastest one.
 
 <img src = "https://pp.vk.me/c638624/v638624859/9aa9/V157mEWTpyE.jpg"/>
             
+Contact me in github if you know the way of doing it faster, im interested.
